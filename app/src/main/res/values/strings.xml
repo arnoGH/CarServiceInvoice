@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Car Repair Invoice</string>
+    <string name="title_activity_service_info">ServiceInfoActivity</string>
+
+    <string name="title_activity_invoice">InvoiceActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
